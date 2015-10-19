@@ -1,0 +1,5 @@
+C:\Google 雲端硬碟\大三上\視窗\hw2\DataGridViewNumericUpDown\DataGridViewNumericUpDownElements\bin\Debug\DataGridViewNumericUpDownElements.dll
+C:\Google 雲端硬碟\大三上\視窗\hw2\DataGridViewNumericUpDown\DataGridViewNumericUpDownElements\bin\Debug\DataGridViewNumericUpDownElements.pdb
+C:\Google 雲端硬碟\大三上\視窗\hw2\DataGridViewNumericUpDown\DataGridViewNumericUpDownElements\obj\Debug\DataGridViewNumericUpDownElements.csprojResolveAssemblyReference.cache
+C:\Google 雲端硬碟\大三上\視窗\hw2\DataGridViewNumericUpDown\DataGridViewNumericUpDownElements\obj\Debug\DataGridViewNumericUpDownElements.dll
+C:\Google 雲端硬碟\大三上\視窗\hw2\DataGridViewNumericUpDown\DataGridViewNumericUpDownElements\obj\Debug\DataGridViewNumericUpDownElements.pdb

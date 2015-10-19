@@ -1,0 +1,108 @@
+Y:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.exe.config
+C:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.exe.config
+Y:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.exe
+Y:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.pdb
+Y:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.csprojResolveAssemblyReference.cache
+Y:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.PosSystem.resources
+Y:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.csproj.GenerateResource.Cache
+Y:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.exe
+Y:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.pdb
+C:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.exe
+C:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.pdb
+C:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.exe
+C:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.pdb
+C:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.csproj.GenerateResource.Cache
+C:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.csprojResolveAssemblyReference.cache
+C:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.OrderSystem.resources
+C:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.exe.config
+C:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.exe
+C:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.pdb
+C:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.exe
+C:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.pdb
+C:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.csprojResolveAssemblyReference.cache
+C:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.OrderSystem.resources
+C:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.csproj.GenerateResource.Cache
+Y:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.exe.config
+Y:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.exe
+Y:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.pdb
+Y:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.exe
+Y:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.pdb
+Y:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.csprojResolveAssemblyReference.cache
+Y:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.OrderSystem.resources
+Y:\Google 雲端硬碟\大三上\視窗\hw1\PosOrderSystem\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.exe.config
+C:\Users\Daniel\Desktop\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.exe
+C:\Users\Daniel\Desktop\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.pdb
+C:\Users\Daniel\Desktop\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.exe
+C:\Users\Daniel\Desktop\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.pdb
+C:\Users\Daniel\Desktop\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.OrderSystem.resources
+C:\Users\Daniel\Desktop\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.RestaurantView.resources
+C:\Users\Daniel\Desktop\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.StartUpView.resources
+C:\Users\Daniel\Desktop\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.Properties.Resources.resources
+C:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.exe.config
+C:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.exe
+C:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.pdb
+Y:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.exe.config
+Y:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.exe
+Y:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.pdb
+Y:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.exe
+Y:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.pdb
+Y:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.csprojResolveAssemblyReference.cache
+Y:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.OrderSystem.resources
+Y:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.Properties.Resources.resources
+Y:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.RestaurantView.resources
+Y:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.StartUpView.resources
+Y:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.csproj.GenerateResource.Cache
+Y:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\bin\Debug\DataGridViewNumericUpDownElements.dll
+Y:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\bin\Debug\DataGridViewNumericUpDownElements.pdb
+C:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.exe
+C:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.pdb
+C:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\bin\Debug\DataGridViewNumericUpDownElements.dll
+C:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\bin\Debug\DataGridViewNumericUpDownElements.pdb
+C:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.csprojResolveAssemblyReference.cache
+C:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.OrderSystem.resources
+C:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.Properties.Resources.resources
+C:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.RestaurantView.resources
+C:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.StartUpView.resources
+C:\Google 雲端硬碟\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.csproj.GenerateResource.Cache
+C:\Dropbox\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.exe.config
+C:\Dropbox\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.exe
+C:\Dropbox\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.pdb
+C:\Dropbox\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.exe
+C:\Dropbox\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.pdb
+C:\Dropbox\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\bin\Debug\DataGridViewNumericUpDownElements.dll
+C:\Dropbox\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\bin\Debug\DataGridViewNumericUpDownElements.pdb
+C:\Dropbox\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.csprojResolveAssemblyReference.cache
+C:\Dropbox\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.OrderSystem.resources
+C:\Dropbox\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.Properties.Resources.resources
+C:\Dropbox\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.RestaurantView.resources
+C:\Dropbox\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.StartUpView.resources
+C:\Dropbox\大三上\視窗\hw2\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.csproj.GenerateResource.Cache
+V:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.exe.config
+V:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.exe
+V:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.pdb
+V:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.exe
+V:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.pdb
+V:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\bin\Debug\DataGridViewNumericUpDownElements.dll
+V:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\bin\Debug\DataGridViewNumericUpDownElements.pdb
+V:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.csprojResolveAssemblyReference.cache
+V:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.OrderSystem.resources
+V:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.Properties.Resources.resources
+V:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.RestaurantView.resources
+V:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.StartUpView.resources
+V:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.csproj.GenerateResource.Cache
+C:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.exe.config
+C:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.exe
+C:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.pdb
+C:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.exe
+C:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\bin\Debug\PosOrderSystem.pdb
+C:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\bin\Debug\DataGridViewNumericUpDownElements.dll
+C:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\bin\Debug\DataGridViewNumericUpDownElements.pdb
+C:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.csprojResolveAssemblyReference.cache
+C:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.OrderSystem.resources
+C:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.Properties.Resources.resources
+C:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.RestaurantView.resources
+C:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.StartUpView.resources
+C:\Dropbox\大三上\視窗\hw3\PosOrderSystem\PosOrderSystem\obj\Debug\PosOrderSystem.csproj.GenerateResource.Cache

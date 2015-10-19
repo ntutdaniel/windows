@@ -1,0 +1,1088 @@
+<stylecopresultscache>
+  <version>12</version>
+  <project key="562143169">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <project key="142701638">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="DataGridViewNumericUpDownCell.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2015/09/23 11:09:46.012</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2005/11/29 10:06:06.000</sourceFile>
+      <parser>2015/09/23 11:09:46.012</parser>
+      <KellyPalRules.KellyPalAnalyzer>2015/09/23 11:09:46.012</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine15" ruleCheckId="SN0015">
+        <context>SpacingAndNewLine15</context>
+        <line>56</line>
+        <index>3210</index>
+        <endIndex>3258</endIndex>
+        <startLine>56</startLine>
+        <startColumn>42</startColumn>
+        <endLine>56</endLine>
+        <endColumn>90</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine15" ruleCheckId="SN0015">
+        <context>SpacingAndNewLine15</context>
+        <line>57</line>
+        <index>3302</index>
+        <endIndex>3346</endIndex>
+        <startLine>57</startLine>
+        <startColumn>42</startColumn>
+        <endLine>57</endLine>
+        <endColumn>86</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine15" ruleCheckId="SN0015">
+        <context>SpacingAndNewLine15</context>
+        <line>58</line>
+        <index>3390</index>
+        <endIndex>3432</endIndex>
+        <startLine>58</startLine>
+        <startColumn>42</startColumn>
+        <endLine>58</endLine>
+        <endColumn>84</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine15" ruleCheckId="SN0015">
+        <context>SpacingAndNewLine15</context>
+        <line>59</line>
+        <index>3476</index>
+        <endIndex>3518</endIndex>
+        <startLine>59</startLine>
+        <startColumn>42</startColumn>
+        <endLine>59</endLine>
+        <endColumn>84</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-VkKeyScan</context>
+        <line>18</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Method2" ruleCheckId="MT0002">
+        <context>Method2</context>
+        <line>18</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="StaticMethodAndFields" ruleCheckId="SM0001">
+        <context>StaticMethodAndFields</context>
+        <line>21</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Variable1" ruleCheckId="VR0001">
+        <context>Variable1</context>
+        <line>21</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="IndentAndNewLine4" ruleCheckId="IN0004">
+        <context>IndentAndNewLine4</context>
+        <line>25</line>
+        <index>1189</index>
+        <endIndex>1261</endIndex>
+        <startLine>25</startLine>
+        <startColumn>1</startColumn>
+        <endLine>25</endLine>
+        <endColumn>73</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="IndentAndNewLine4" ruleCheckId="IN0004">
+        <context>IndentAndNewLine4</context>
+        <line>26</line>
+        <index>1307</index>
+        <endIndex>1379</endIndex>
+        <startLine>26</startLine>
+        <startColumn>1</startColumn>
+        <endLine>26</endLine>
+        <endColumn>73</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="StaticMethodAndFields" ruleCheckId="SM0001">
+        <context>StaticMethodAndFields</context>
+        <line>24</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Variable1" ruleCheckId="VR0001">
+        <context>Variable1</context>
+        <line>24</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-DATAGRIDVIEWNUMERICUPDOWNCELL_defaultRenderingBitmapWidth</context>
+        <line>29</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Variable4" ruleCheckId="VR0004">
+        <context>Variable4</context>
+        <line>29</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-DATAGRIDVIEWNUMERICUPDOWNCELL_defaultRenderingBitmapHeight</context>
+        <line>30</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Variable4" ruleCheckId="VR0004">
+        <context>Variable4</context>
+        <line>30</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-DATAGRIDVIEWNUMERICUPDOWNCELL_defaultDecimalPlaces</context>
+        <line>33</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Variable4" ruleCheckId="VR0004">
+        <context>Variable4</context>
+        <line>33</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-DATAGRIDVIEWNUMERICUPDOWNCELL_defaultIncrement</context>
+        <line>35</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Variable4" ruleCheckId="VR0004">
+        <context>Variable4</context>
+        <line>35</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-DATAGRIDVIEWNUMERICUPDOWNCELL_defaultMaximum</context>
+        <line>37</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Variable4" ruleCheckId="VR0004">
+        <context>Variable4</context>
+        <line>37</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-DATAGRIDVIEWNUMERICUPDOWNCELL_defaultMinimum</context>
+        <line>39</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Variable4" ruleCheckId="VR0004">
+        <context>Variable4</context>
+        <line>39</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-DATAGRIDVIEWNUMERICUPDOWNCELL_defaultThousandsSeparator</context>
+        <line>41</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Variable4" ruleCheckId="VR0004">
+        <context>Variable4</context>
+        <line>41</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="StaticMethodAndFields" ruleCheckId="SM0001">
+        <context>StaticMethodAndFields</context>
+        <line>44</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Variable1" ruleCheckId="VR0001">
+        <context>Variable1</context>
+        <line>44</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="StaticMethodAndFields" ruleCheckId="SM0001">
+        <context>StaticMethodAndFields</context>
+        <line>46</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Variable1" ruleCheckId="VR0001">
+        <context>Variable1</context>
+        <line>46</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="StaticMethodAndFields" ruleCheckId="SM0001">
+        <context>StaticMethodAndFields</context>
+        <line>50</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Variable1" ruleCheckId="VR0001">
+        <context>Variable1</context>
+        <line>50</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="StaticMethodAndFields" ruleCheckId="SM0001">
+        <context>StaticMethodAndFields</context>
+        <line>54</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Variable1" ruleCheckId="VR0001">
+        <context>Variable1</context>
+        <line>54</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-decimalPlaces</context>
+        <line>56</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Variable1" ruleCheckId="VR0001">
+        <context>Variable1</context>
+        <line>56</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-increment</context>
+        <line>57</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Variable1" ruleCheckId="VR0001">
+        <context>Variable1</context>
+        <line>57</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Variable1" ruleCheckId="VR0001">
+        <context>Variable1</context>
+        <line>58</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Variable1" ruleCheckId="VR0001">
+        <context>Variable1</context>
+        <line>59</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Variable1" ruleCheckId="VR0001">
+        <context>Variable1</context>
+        <line>60</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LiteralConstants" ruleCheckId="LC0001">
+        <context>LiteralConstants-10</context>
+        <line>79</line>
+        <index>4599</index>
+        <endIndex>4600</endIndex>
+        <startLine>79</startLine>
+        <startColumn>68</startColumn>
+        <endLine>79</endLine>
+        <endColumn>69</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LiteralConstants" ruleCheckId="LC0001">
+        <context>LiteralConstants-10</context>
+        <line>80</line>
+        <index>4671</index>
+        <endIndex>4672</endIndex>
+        <startLine>80</startLine>
+        <startColumn>68</startColumn>
+        <endLine>80</endLine>
+        <endColumn>69</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-DecimalPlaces</context>
+        <line>97</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine15" ruleCheckId="SN0015">
+        <context>SpacingAndNewLine15</context>
+        <line>114</line>
+        <index>5968</index>
+        <endIndex>6039</endIndex>
+        <startLine>114</startLine>
+        <startColumn>40</startColumn>
+        <endLine>114</endLine>
+        <endColumn>111</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LiteralConstants" ruleCheckId="LC0001">
+        <context>LiteralConstants-99</context>
+        <line>107</line>
+        <index>5622</index>
+        <endIndex>5623</endIndex>
+        <startLine>107</startLine>
+        <startColumn>42</startColumn>
+        <endLine>107</endLine>
+        <endColumn>43</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-Increment</context>
+        <line>144</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine13" ruleCheckId="SN0013">
+        <context>SpacingAndNewLine13</context>
+        <line>154</line>
+        <index>7150</index>
+        <endIndex>7150</endIndex>
+        <startLine>154</startLine>
+        <startColumn>38</startColumn>
+        <endLine>154</endLine>
+        <endColumn>38</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LiteralConstants" ruleCheckId="LC0001">
+        <context>LiteralConstants-0.0</context>
+        <line>154</line>
+        <index>7151</index>
+        <endIndex>7153</endIndex>
+        <startLine>154</startLine>
+        <startColumn>39</startColumn>
+        <endLine>154</endLine>
+        <endColumn>41</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine16" ruleCheckId="SN0016">
+        <context>SpacingAndNewLine16</context>
+        <line>248</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LackOfComments" ruleCheckId="LC0001">
+        <context>LackOfComments</context>
+        <line>248</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine16" ruleCheckId="SN0016">
+        <context>SpacingAndNewLine16</context>
+        <line>265</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-Constrain</context>
+        <line>265</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LackOfComments" ruleCheckId="LC0001">
+        <context>LackOfComments</context>
+        <line>265</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Method2" ruleCheckId="MT0002">
+        <context>Method2</context>
+        <line>265</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine16" ruleCheckId="SN0016">
+        <context>SpacingAndNewLine16</context>
+        <line>285</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LackOfComments" ruleCheckId="LC0001">
+        <context>LackOfComments</context>
+        <line>285</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LongMethod" ruleCheckId="LM0001">
+        <context>LongMethod</context>
+        <line>285</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LiteralConstants" ruleCheckId="LC0001">
+        <context>LiteralConstants-2</context>
+        <line>318</line>
+        <index>12841</index>
+        <endIndex>12841</endIndex>
+        <startLine>318</startLine>
+        <startColumn>83</startColumn>
+        <endLine>318</endLine>
+        <endColumn>83</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LiteralConstants" ruleCheckId="LC0001">
+        <context>LiteralConstants-2</context>
+        <line>329</line>
+        <index>13427</index>
+        <endIndex>13427</endIndex>
+        <startLine>329</startLine>
+        <startColumn>101</startColumn>
+        <endLine>329</endLine>
+        <endColumn>101</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine16" ruleCheckId="SN0016">
+        <context>SpacingAndNewLine16</context>
+        <line>314</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LongMethod" ruleCheckId="LM0001">
+        <context>LongMethod</context>
+        <line>314</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine16" ruleCheckId="SN0016">
+        <context>SpacingAndNewLine16</context>
+        <line>346</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-graphics</context>
+        <line>346</line>
+        <index>14173</index>
+        <endIndex>14189</endIndex>
+        <startLine>346</startLine>
+        <startColumn>57</startColumn>
+        <endLine>346</endLine>
+        <endColumn>73</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Variable4" ruleCheckId="VR0004">
+        <context>Variable4</context>
+        <line>348</line>
+        <index>14269</index>
+        <endIndex>14284</endIndex>
+        <startLine>348</startLine>
+        <startColumn>19</startColumn>
+        <endLine>348</endLine>
+        <endColumn>34</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LackOfComments" ruleCheckId="LC0001">
+        <context>LackOfComments</context>
+        <line>346</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine16" ruleCheckId="SN0016">
+        <context>SpacingAndNewLine16</context>
+        <line>366</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-valueTypeConverter</context>
+        <line>369</line>
+        <index>15261</index>
+        <endIndex>15292</endIndex>
+        <startLine>369</startLine>
+        <startColumn>53</startColumn>
+        <endLine>369</endLine>
+        <endColumn>84</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-formattedValueTypeConverter</context>
+        <line>370</line>
+        <index>15348</index>
+        <endIndex>15388</endIndex>
+        <startLine>370</startLine>
+        <startColumn>53</startColumn>
+        <endLine>370</endLine>
+        <endColumn>93</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LackOfComments" ruleCheckId="LC0001">
+        <context>LackOfComments</context>
+        <line>366</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LongParameterList" ruleCheckId="LP0001">
+        <context>LongParameterList</context>
+        <line>366</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LongMethod" ruleCheckId="LM0001">
+        <context>LongMethod</context>
+        <line>366</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine1" ruleCheckId="SN0001">
+        <context>SpacingAndNewLine1</context>
+        <line>366</line>
+        <index>15050</index>
+        <endIndex>15051</endIndex>
+        <startLine>366</startLine>
+        <startColumn>66</startColumn>
+        <endLine>366</endLine>
+        <endColumn>67</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine1" ruleCheckId="SN0001">
+        <context>SpacingAndNewLine1</context>
+        <line>367</line>
+        <index>15117</index>
+        <endIndex>15118</endIndex>
+        <startLine>367</startLine>
+        <startColumn>66</startColumn>
+        <endLine>367</endLine>
+        <endColumn>67</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine1" ruleCheckId="SN0001">
+        <context>SpacingAndNewLine1</context>
+        <line>368</line>
+        <index>15207</index>
+        <endIndex>15208</endIndex>
+        <startLine>368</startLine>
+        <startColumn>89</startColumn>
+        <endLine>368</endLine>
+        <endColumn>90</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine1" ruleCheckId="SN0001">
+        <context>SpacingAndNewLine1</context>
+        <line>369</line>
+        <index>15294</index>
+        <endIndex>15295</endIndex>
+        <startLine>369</startLine>
+        <startColumn>86</startColumn>
+        <endLine>369</endLine>
+        <endColumn>87</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine1" ruleCheckId="SN0001">
+        <context>SpacingAndNewLine1</context>
+        <line>370</line>
+        <index>15390</index>
+        <endIndex>15391</endIndex>
+        <startLine>370</startLine>
+        <startColumn>95</startColumn>
+        <endLine>370</endLine>
+        <endColumn>96</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine15" ruleCheckId="SN0015">
+        <context>SpacingAndNewLine15</context>
+        <line>406</line>
+        <index>17565</index>
+        <endIndex>17626</endIndex>
+        <startLine>406</startLine>
+        <startColumn>46</startColumn>
+        <endLine>406</endLine>
+        <endColumn>107</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine16" ruleCheckId="SN0016">
+        <context>SpacingAndNewLine16</context>
+        <line>395</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-graphics</context>
+        <line>395</line>
+        <index>17045</index>
+        <endIndex>17061</endIndex>
+        <startLine>395</startLine>
+        <startColumn>50</startColumn>
+        <endLine>395</endLine>
+        <endColumn>66</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-constraintSize</context>
+        <line>395</line>
+        <index>17111</index>
+        <endIndex>17129</endIndex>
+        <startLine>395</startLine>
+        <startColumn>116</startColumn>
+        <endLine>395</endLine>
+        <endColumn>134</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LackOfComments" ruleCheckId="LC0001">
+        <context>LackOfComments</context>
+        <line>395</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine16" ruleCheckId="SN0016">
+        <context>SpacingAndNewLine16</context>
+        <line>417</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LackOfComments" ruleCheckId="LC0001">
+        <context>LackOfComments</context>
+        <line>417</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LongMethod" ruleCheckId="LM0001">
+        <context>LongMethod</context>
+        <line>417</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="IndentAndNewLine4" ruleCheckId="IN0004">
+        <context>IndentAndNewLine4</context>
+        <line>457</line>
+        <index>20178</index>
+        <endIndex>20194</endIndex>
+        <startLine>457</startLine>
+        <startColumn>1</startColumn>
+        <endLine>457</endLine>
+        <endColumn>17</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="IndentAndNewLine4" ruleCheckId="IN0004">
+        <context>IndentAndNewLine4</context>
+        <line>458</line>
+        <index>20256</index>
+        <endIndex>20272</endIndex>
+        <startLine>458</startLine>
+        <startColumn>1</startColumn>
+        <endLine>458</endLine>
+        <endColumn>17</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="IndentAndNewLine4" ruleCheckId="IN0004">
+        <context>IndentAndNewLine4</context>
+        <line>459</line>
+        <index>20306</index>
+        <endIndex>20322</endIndex>
+        <startLine>459</startLine>
+        <startColumn>1</startColumn>
+        <endLine>459</endLine>
+        <endColumn>17</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine16" ruleCheckId="SN0016">
+        <context>SpacingAndNewLine16</context>
+        <line>446</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-negativeSignStr</context>
+        <line>450</line>
+        <index>19883</index>
+        <endIndex>19929</endIndex>
+        <startLine>450</startLine>
+        <startColumn>20</startColumn>
+        <endLine>450</endLine>
+        <endColumn>66</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LackOfComments" ruleCheckId="LC0001">
+        <context>LackOfComments</context>
+        <line>446</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LongMethod" ruleCheckId="LM0001">
+        <context>LongMethod</context>
+        <line>446</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine16" ruleCheckId="SN0016">
+        <context>SpacingAndNewLine16</context>
+        <line>472</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LackOfComments" ruleCheckId="LC0001">
+        <context>LackOfComments</context>
+        <line>472</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LongMethod" ruleCheckId="LM0001">
+        <context>LongMethod</context>
+        <line>472</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Method2" ruleCheckId="MT0002">
+        <context>Method2</context>
+        <line>472</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine16" ruleCheckId="SN0016">
+        <context>SpacingAndNewLine16</context>
+        <line>500</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LackOfComments" ruleCheckId="LC0001">
+        <context>LackOfComments</context>
+        <line>500</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="Method2" ruleCheckId="MT0002">
+        <context>Method2</context>
+        <line>500</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="IndentAndNewLine4" ruleCheckId="IN0004">
+        <context>IndentAndNewLine4</context>
+        <line>518</line>
+        <index>23666</index>
+        <endIndex>23703</endIndex>
+        <startLine>518</startLine>
+        <startColumn>1</startColumn>
+        <endLine>518</endLine>
+        <endColumn>38</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="IndentAndNewLine4" ruleCheckId="IN0004">
+        <context>IndentAndNewLine4</context>
+        <line>519</line>
+        <index>23793</index>
+        <endIndex>23830</endIndex>
+        <startLine>519</startLine>
+        <startColumn>1</startColumn>
+        <endLine>519</endLine>
+        <endColumn>38</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="IndentAndNewLine4" ruleCheckId="IN0004">
+        <context>IndentAndNewLine4</context>
+        <line>528</line>
+        <index>24246</index>
+        <endIndex>24268</endIndex>
+        <startLine>528</startLine>
+        <startColumn>1</startColumn>
+        <endLine>528</endLine>
+        <endColumn>23</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="IndentAndNewLine4" ruleCheckId="IN0004">
+        <context>IndentAndNewLine4</context>
+        <line>612</line>
+        <index>29151</index>
+        <endIndex>29193</endIndex>
+        <startLine>612</startLine>
+        <startColumn>1</startColumn>
+        <endLine>612</endLine>
+        <endColumn>43</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="IndentAndNewLine4" ruleCheckId="IN0004">
+        <context>IndentAndNewLine4</context>
+        <line>619</line>
+        <index>29578</index>
+        <endIndex>29608</endIndex>
+        <startLine>619</startLine>
+        <startColumn>1</startColumn>
+        <endLine>619</endLine>
+        <endColumn>31</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LiteralConstants" ruleCheckId="LC0001">
+        <context>LiteralConstants-255</context>
+        <line>599</line>
+        <index>28377</index>
+        <endIndex>28379</endIndex>
+        <startLine>599</startLine>
+        <startColumn>43</startColumn>
+        <endLine>599</endLine>
+        <endColumn>45</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LiteralConstants" ruleCheckId="LC0001">
+        <context>LiteralConstants-255</context>
+        <line>602</line>
+        <index>28564</index>
+        <endIndex>28566</endIndex>
+        <startLine>602</startLine>
+        <startColumn>56</startColumn>
+        <endLine>602</endLine>
+        <endColumn>58</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine16" ruleCheckId="SN0016">
+        <context>SpacingAndNewLine16</context>
+        <line>517</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-graphics</context>
+        <line>517</line>
+        <index>23551</index>
+        <endIndex>23567</endIndex>
+        <startLine>517</startLine>
+        <startColumn>39</startColumn>
+        <endLine>517</endLine>
+        <endColumn>55</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-ptCurrentCell</context>
+        <line>530</line>
+        <index>24384</index>
+        <endIndex>24435</endIndex>
+        <startLine>530</startLine>
+        <startColumn>19</startColumn>
+        <endLine>530</endLine>
+        <endColumn>70</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LackOfComments" ruleCheckId="LC0001">
+        <context>LackOfComments</context>
+        <line>517</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LongParameterList" ruleCheckId="LP0001">
+        <context>LongParameterList</context>
+        <line>517</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LongMethod" ruleCheckId="LM0001">
+        <context>LongMethod</context>
+        <line>517</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine1" ruleCheckId="SN0001">
+        <context>SpacingAndNewLine1</context>
+        <line>517</line>
+        <index>23664</index>
+        <endIndex>23665</endIndex>
+        <startLine>517</startLine>
+        <startColumn>152</startColumn>
+        <endLine>517</endLine>
+        <endColumn>153</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine1" ruleCheckId="SN0001">
+        <context>SpacingAndNewLine1</context>
+        <line>518</line>
+        <index>23791</index>
+        <endIndex>23792</endIndex>
+        <startLine>518</startLine>
+        <startColumn>126</startColumn>
+        <endLine>518</endLine>
+        <endColumn>127</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine16" ruleCheckId="SN0016">
+        <context>SpacingAndNewLine16</context>
+        <line>627</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LackOfComments" ruleCheckId="LC0001">
+        <context>LackOfComments</context>
+        <line>627</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine16" ruleCheckId="SN0016">
+        <context>SpacingAndNewLine16</context>
+        <line>636</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LackOfComments" ruleCheckId="LC0001">
+        <context>LackOfComments</context>
+        <line>636</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LongParameterList" ruleCheckId="LP0001">
+        <context>LongParameterList</context>
+        <line>636</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LongMethod" ruleCheckId="LM0001">
+        <context>LongMethod</context>
+        <line>636</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine1" ruleCheckId="SN0001">
+        <context>SpacingAndNewLine1</context>
+        <line>636</line>
+        <index>30369</index>
+        <endIndex>30370</endIndex>
+        <startLine>636</startLine>
+        <startColumn>70</startColumn>
+        <endLine>636</endLine>
+        <endColumn>71</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine1" ruleCheckId="SN0001">
+        <context>SpacingAndNewLine1</context>
+        <line>637</line>
+        <index>30428</index>
+        <endIndex>30429</endIndex>
+        <startLine>637</startLine>
+        <startColumn>58</startColumn>
+        <endLine>637</endLine>
+        <endColumn>59</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine1" ruleCheckId="SN0001">
+        <context>SpacingAndNewLine1</context>
+        <line>638</line>
+        <index>30495</index>
+        <endIndex>30496</endIndex>
+        <startLine>638</startLine>
+        <startColumn>66</startColumn>
+        <endLine>638</endLine>
+        <endColumn>67</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine1" ruleCheckId="SN0001">
+        <context>SpacingAndNewLine1</context>
+        <line>639</line>
+        <index>30560</index>
+        <endIndex>30561</endIndex>
+        <startLine>639</startLine>
+        <startColumn>64</startColumn>
+        <endLine>639</endLine>
+        <endColumn>65</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine1" ruleCheckId="SN0001">
+        <context>SpacingAndNewLine1</context>
+        <line>640</line>
+        <index>30638</index>
+        <endIndex>30639</endIndex>
+        <startLine>640</startLine>
+        <startColumn>77</startColumn>
+        <endLine>640</endLine>
+        <endColumn>78</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine1" ruleCheckId="SN0001">
+        <context>SpacingAndNewLine1</context>
+        <line>641</line>
+        <index>30715</index>
+        <endIndex>30716</endIndex>
+        <startLine>641</startLine>
+        <startColumn>76</startColumn>
+        <endLine>641</endLine>
+        <endColumn>77</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine1" ruleCheckId="SN0001">
+        <context>SpacingAndNewLine1</context>
+        <line>642</line>
+        <index>30794</index>
+        <endIndex>30795</endIndex>
+        <startLine>642</startLine>
+        <startColumn>78</startColumn>
+        <endLine>642</endLine>
+        <endColumn>79</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine1" ruleCheckId="SN0001">
+        <context>SpacingAndNewLine1</context>
+        <line>643</line>
+        <index>30868</index>
+        <endIndex>30869</endIndex>
+        <startLine>643</startLine>
+        <startColumn>73</startColumn>
+        <endLine>643</endLine>
+        <endColumn>74</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LiteralConstants" ruleCheckId="LC0001">
+        <context>LiteralConstants-99</context>
+        <line>667</line>
+        <index>32551</index>
+        <endIndex>32552</endIndex>
+        <startLine>667</startLine>
+        <startColumn>49</startColumn>
+        <endLine>667</endLine>
+        <endColumn>50</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine16" ruleCheckId="SN0016">
+        <context>SpacingAndNewLine16</context>
+        <line>665</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-SetDecimalPlaces</context>
+        <line>665</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LackOfComments" ruleCheckId="LC0001">
+        <context>LackOfComments</context>
+        <line>665</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LiteralConstants" ruleCheckId="LC0001">
+        <context>LiteralConstants-0.0</context>
+        <line>680</line>
+        <index>33163</index>
+        <endIndex>33165</endIndex>
+        <startLine>680</startLine>
+        <startColumn>44</startColumn>
+        <endLine>680</endLine>
+        <endColumn>46</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine16" ruleCheckId="SN0016">
+        <context>SpacingAndNewLine16</context>
+        <line>678</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-SetIncrement</context>
+        <line>678</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LackOfComments" ruleCheckId="LC0001">
+        <context>LackOfComments</context>
+        <line>678</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine16" ruleCheckId="SN0016">
+        <context>SpacingAndNewLine16</context>
+        <line>693</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LackOfComments" ruleCheckId="LC0001">
+        <context>LackOfComments</context>
+        <line>693</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LongMethod" ruleCheckId="LM0001">
+        <context>LongMethod</context>
+        <line>693</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine16" ruleCheckId="SN0016">
+        <context>SpacingAndNewLine16</context>
+        <line>722</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LackOfComments" ruleCheckId="LC0001">
+        <context>LackOfComments</context>
+        <line>722</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LongMethod" ruleCheckId="LM0001">
+        <context>LongMethod</context>
+        <line>722</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine16" ruleCheckId="SN0016">
+        <context>SpacingAndNewLine16</context>
+        <line>751</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LackOfComments" ruleCheckId="LC0001">
+        <context>LackOfComments</context>
+        <line>751</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine16" ruleCheckId="SN0016">
+        <context>SpacingAndNewLine16</context>
+        <line>763</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LackOfComments" ruleCheckId="LC0001">
+        <context>LackOfComments</context>
+        <line>763</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="StaticMethodAndFields" ruleCheckId="SM0001">
+        <context>StaticMethodAndFields</context>
+        <line>772</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="SpacingAndNewLine16" ruleCheckId="SN0016">
+        <context>SpacingAndNewLine16</context>
+        <line>772</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-TranslateAlignment</context>
+        <line>772</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>UnsuitableNaming-align</context>
+        <line>772</line>
+        <index>37592</index>
+        <endIndex>37625</endIndex>
+        <startLine>772</startLine>
+        <startColumn>64</startColumn>
+        <endLine>772</endLine>
+        <endColumn>97</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LackOfComments" ruleCheckId="LC0001">
+        <context>LackOfComments</context>
+        <line>772</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+</stylecopresultscache>
